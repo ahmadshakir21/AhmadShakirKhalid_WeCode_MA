@@ -1,0 +1,7 @@
+my name is Ahmad Shakir Khalid
+i'm 22 years old
+i'm software engineer
+
+<developer> "dev" </developer> <developer> "dev" </developer> <developer> "dev" </developer>
+
+<developer> "dev" </developer> <developer> "dev" </developer> <developer> "dev" </developer>
